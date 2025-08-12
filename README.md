@@ -30,6 +30,7 @@ Mar 2025 - Jun 2025 — Seville, Andalusia, Spain
 
 | Project | Description | Technologies |
 |----------------|---------------------------------|-----------------------------|
+| [codewars-katas](https://github.com/nruiz209487/codewars-katas) | Daily problem-solving practice on [Codewars](https://www.codewars.com/users/nruiz209487). | Python, JS |
 | [videoFetch Downloader](https://github.com/nruiz209487/videoFetch-yt-downloader-django) | Web app to download videos/music from YouTube, TikTok, Reddit. | Python, Django, HTML, JS, Bootstrap |
 | [AnimeNews](https://github.com/nruiz209487/AnimeNewsPageReactAndJikanApi) | Small site consuming the Jikan API to display trending anime and news. | React, Jikan API, TypeScript, HTML, CSS |
 | [FitTrack API](https://github.com/nruiz209487/FitrackApi) & [FitTrack Android](https://github.com/nruiz209487/FitTrackAndroid) | Complete fitness tracker app with routines, planning, streaks, Maps integration. | Laravel, Android, REST API, Firebase |
