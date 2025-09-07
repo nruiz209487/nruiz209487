@@ -8,13 +8,14 @@ I’m a developer focused on creating solid web and mobile solutions using moder
 
 ## 🧩 Main Technologies
 
-- **Laravel** — Modern PHP framework for scalable web apps.
+- **Salesforce / Apex / LWC** — CRM customization, Lightning Web Components, automation.
 - **Kotlin / Jetpack Compose** — Native Android apps.
 - **React / Angular** — Modern SPAs with TypeScript and reusable components.
 - **Python / Django** — Fast, secure web development.
 - **Firebase / MySQL** — Real-time databases, authentication and secure storage.
 - **.NET / MAUI / C#** — Cross-platform, enterprise-grade applications.
 - **HTML / CSS / JavaScript** — Responsive, modern interfaces.
+- **Laravel** — Modern PHP framework for scalable web apps.
 
 ---
 
@@ -23,6 +24,11 @@ I’m a developer focused on creating solid web and mobile solutions using moder
 **Bluumi Mobile Apps** — *Full Stack Developer*  
 Mar 2025 - Jun 2025 — Seville, Andalusia, Spain  
 - Web projects using Docker, Blade, Node.js, AdminLTE, PHP, Laravel, PHPUnit.
+
+**Ayesa** — *Salesforce Developer*  
+Sep 2025 - Present — Seville, Andalusia, Spain  
+- Development of Salesforce LWC components, automation, and integrations.  
+- Participation in enterprise-grade software projects.
 
 ---
 
