@@ -8,13 +8,12 @@ I’m a developer focused on creating solid web and mobile solutions using moder
 
 ## 🧩 Main Technologies
 
-- **React / Angular** — Modern SPAs with TypeScript and reusable components.
+- **React** — Modern SPAs with TypeScript and reusable components.
+- **Angular** — Modern SPAs with TypeScript and reusable components.
+- **Java / Spring Boot** — Backend robusto y ecosistema empresarial.
 - **Python / Django** — Fast, secure web development.
 - **Firebase / MySQL** — Real-time databases, authentication and secure storage.
-- **.NET / MAUI / C#** — Cross-platform, enterprise-grade applications.
 - **HTML / CSS / JavaScript** — Responsive, modern interfaces.
-- **Laravel** — Modern PHP framework for scalable web apps.
-- **Kotlin / Jetpack Compose** — Native Android apps.
   
 ---
 
@@ -24,10 +23,12 @@ I’m a developer focused on creating solid web and mobile solutions using moder
 Sep 2025 - Present — Seville, Andalusia, Spain  
 - Development of JavaScript components, automation, and integrations.  
 - Participation in enterprise-grade software projects.
+- Java backend
+- CI/CD
   
 **Bluumi Mobile Apps** — *Full Stack Developer*  
 Mar 2025 - Jun 2025 — Seville, Andalusia, Spain  
-- Web projects using Docker, Blade, Node.js, AdminLTE, PHP, Laravel, PHPUnit.
+- Web projects using Docker, Blade, Node.js, React.
 
 ---
 
@@ -36,10 +37,7 @@ Mar 2025 - Jun 2025 — Seville, Andalusia, Spain
 | Project | Description | Technologies |
 |----------------|---------------------------------|-----------------------------|
 | [codewars-katas](https://github.com/nruiz209487/codewars-katas) | Daily problem-solving practice on [Codewars](https://www.codewars.com/users/nruiz209487). | Python, JS |
-| [videoFetch Downloader](https://github.com/nruiz209487/videoFetch-yt-downloader-django) | Web app to download videos/music from YouTube, TikTok, Reddit. | Python, Django, HTML, JS, Bootstrap |
 | [AnimeNews](https://github.com/nruiz209487/AnimeNewsPageReactAndJikanApi) | Small site consuming the Jikan API to display trending anime and news. | React, Jikan API, TypeScript, HTML, CSS |
-| [FitTrack API](https://github.com/nruiz209487/FitrackApi) & [FitTrack Android](https://github.com/nruiz209487/FitTrackAndroid) | Complete fitness tracker app with routines, planning, streaks, Maps integration. | Laravel, Android, REST API, Firebase |
-| [PokeMatch](https://github.com/nruiz209487/ProyectosPokemon) | Multiplayer game where two players compete to recognize the most Pokémon in the shortest time. | MAUI, ASP.NET, C#, SQL Server |
 | [Online CV](https://nruiz209487.github.io/MiCurriculum/) | My personal online CV, portfolio and contact hub. | HTML, CSS, JS |
 
 ---
