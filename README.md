@@ -10,7 +10,7 @@ I’m a developer focused on creating solid web and mobile solutions using moder
 
 - **React** — Modern SPAs with TypeScript and reusable components.
 - **Angular** — Modern SPAs with TypeScript and reusable components.
-- **Java / Spring Boot** — Backend robusto y ecosistema empresarial.
+- **Java / Spring Boot** — Enterprise Backend.
 - **Python / Django** — Fast, secure web development.
 - **Firebase / MySQL** — Real-time databases, authentication and secure storage.
 - **HTML / CSS / JavaScript** — Responsive, modern interfaces.
